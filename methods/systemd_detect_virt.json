@@ -1,0 +1,8 @@
+{	
+		"name":"Detecting virtualization environment",
+		"description": "This method runs systemd-detect-virt. It detects execution in a virtualization environment. Identifies the virtualization technology and can distinguish full machine virtualization from container virtualization.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/systemd_detect_virt.sh",
+		"level": "HIGH"
+}

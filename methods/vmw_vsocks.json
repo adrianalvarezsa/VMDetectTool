@@ -1,0 +1,8 @@
+{	
+		"name":"VMware VMCI Sockets",
+		"description": "VMCI Sockets allows virtual machines to communicate with host kernel modules and the VMware hypervisors. VMCI Sockets kernel module has dependency on VMCI kernel module. User level applications both in a virtual machine and on the host can use vmw_vmci through VMCI Sockets API which facilitates fast and efficient communication between guest virtual machines and their host.",
+		"hypervisor": "VMware",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/vmw_vsocks.sh",
+		"level": "MEDIUM"
+}

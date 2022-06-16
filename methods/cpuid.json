@@ -1,0 +1,8 @@
+{	
+		"name":"CPUID instruction",
+		"description": "CPUID is an instruction in the CPU architecture that provides the request processes for processor supplementary information. When malware retrieves the information from CPUID, by analyzing and comparing the value that is returned, it may understand in which type of system it runs. When running in a VM Architecture, the CPUID returns a known value depending on which vendor of the VM host you are using.",
+		"hypervisor": "VMware",
+		"type": "C",
+		"path": "/usr/share/vmdetect/scripts/cpuid.sh",
+		"level": "MEDIUM"
+}

@@ -1,0 +1,8 @@
+{	
+		"name":"Disk size < 40GB",
+		"description": "This method calls a Python Script that check if root's disk size is lower than 40GB",
+		"hypervisor": "Generic",
+		"type": "Python",
+		"path": "/usr/share/vmdetect/scripts/disk_size.sh",
+		"level": "LOW"
+}

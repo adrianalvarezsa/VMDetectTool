@@ -1,0 +1,8 @@
+{	
+		"name":"Virtual Machine Processes",
+		"description": "Look for processes running on Linux System.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/ps_aux.sh",
+		"level": "MEDIUM"
+}

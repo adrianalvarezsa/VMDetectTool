@@ -1,0 +1,8 @@
+{	
+		"name": "VirtualBox kernel modules",
+		"description": "Check the loaded kernel modules related to VirtualBox as vboxguest, vboxvideo or vboxsf",
+		"hypervisor": "VirtualBox",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/lsmod_vbox.sh",
+		"level": "HIGH"
+}

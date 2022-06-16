@@ -1,0 +1,8 @@
+{	
+		"name": "MAC address check",
+		"description": "This checks look for coincidences with known vendor MAC addresses. ",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/mac_address.sh",
+		"level": "LOW"
+}

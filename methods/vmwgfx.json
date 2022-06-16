@@ -1,0 +1,8 @@
+{	
+		"name":"VMware Linux Graphics Driver",
+		"description": "vmwgfx is the VMware Linux graphics driver for exposing 3D/OpenGL/3D hardware acceleration to guest virtual machines of VMware's products.",
+		"hypervisor": "VMware",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/vmwgfx.sh",
+		"level": "MEDIUM"
+}

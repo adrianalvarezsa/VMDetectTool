@@ -1,0 +1,8 @@
+{	
+		"name": "Looking for PCI devices",
+		"description": "Execute lspci for checking information about PCI buses in the system and devices connected to them.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/lspci.sh",
+		"level": "HIGH"
+}

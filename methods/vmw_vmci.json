@@ -1,0 +1,8 @@
+{	
+		"name":"VMware VMCI",
+		"description": "VMCI allows virtual machines to communicate with host kernel modules and the VMware hypervisors. User level applications both in a virtual machine and on the host can use vmw_vmci through VMCI Sockets, a socket address family designed to be compatible with UDP and TCP at the interface level. Today, VMCI and VMCI Sockets are used by the VMware shared folders (HGFS) and various VMware Tools components inside the guest for zero-config, network-less access to VMware host services.",
+		"hypervisor": "VMware",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/vmw_vmci.sh",
+		"level": "MEDIUM"
+}

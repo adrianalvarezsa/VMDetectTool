@@ -1,0 +1,8 @@
+{	
+		"name":"VMware Memory Ballooning",
+		"description": "Ballooning is a process where the ESXi host reclaims memory back from the virtual machine. Ballooning is an activity that happens when the ESXi host is running out of physical memory. The demand of the virtual machine is too high for the host to handle.",
+		"hypervisor": "VMware",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/vmware_ballooning.sh",
+		"level": "MEDIUM"
+}

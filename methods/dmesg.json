@@ -1,0 +1,8 @@
+{	
+		"name": "Looking for Kernel Buffer Messages",
+		"description": "dmesg is a command on most Unix-like operating systems that prints the message buffer of the kernel. The output includes messages produced by the device drivers.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/dmesg.sh",
+		"level": "HIGH"
+}

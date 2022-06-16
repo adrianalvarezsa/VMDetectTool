@@ -1,0 +1,8 @@
+{	
+		"name":"Devices naming files",
+		"description": "There are different schemes for persistent naming. by-id creates a unique name depending on the hardware serial number and contain strings to indicate which subsystem it belong to.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/device_naming_files.sh",
+		"level": "MEDIUM"
+}

@@ -1,0 +1,8 @@
+{	
+		"name": "Looking for Driver Registries",
+		"description": "The file /proc/bus/input/devices contains an amount of driver registries and events of physical dispositives as touchpad, keyboard, mouse...",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/input_devices.sh",
+		"level": "LOW"
+}

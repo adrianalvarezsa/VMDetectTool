@@ -1,0 +1,8 @@
+{	
+		"name":"Executing hostnamectl",
+		"description": "Hostnamectl is a tool to query and change the system hostname and related settings.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/hostnamectl.sh",
+		"level": "MEDIUM"
+}

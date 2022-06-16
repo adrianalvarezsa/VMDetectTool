@@ -1,0 +1,8 @@
+{	
+		"name":"Devices currently attached by the SCSI subsystem",
+		"description": "The SCSI subsystem (Small Computer System Interface) is a set of standards for physically connecting and transferring data between computers and peripheral devices. This method check for information about those standards in /proc/scsi/scsi.",
+		"hypervisor": "Generic",
+		"type": "Shell",
+		"path": "/usr/share/vmdetect/scripts/scsi.sh",
+		"level": "MEDIUM"
+}

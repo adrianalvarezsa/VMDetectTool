@@ -1,0 +1,4 @@
+py-cpuinfo
+psutil
+InquirerPy
+py-cpuinfo
