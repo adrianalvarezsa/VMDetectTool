@@ -25,7 +25,6 @@ All the dependences used by this tool are in the requirements.txt:
 * py-cpuinfo
 * psutil
 * InquirerPy
-* py-cpuinfo
 
 
 ## Running the tool
