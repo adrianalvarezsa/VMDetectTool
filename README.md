@@ -1,11 +1,3 @@
-██╗░░░██╗███╗░░░███╗██████╗░███████╗████████╗███████╗░█████╗░████████╗ 
-██║░░░██║████╗░████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗╚══██╔══╝
-╚██╗░██╔╝██╔████╔██║██║░░██║█████╗░░░░░██║░░░█████╗░░██║░░╚═╝░░░██║░░░
-░╚████╔╝░██║╚██╔╝██║██║░░██║██╔══╝░░░░░██║░░░██╔══╝░░██║░░██╗░░░██║░░░
-░░╚██╔╝░░██║░╚═╝░██║██████╔╝███████╗░░░██║░░░███████╗╚█████╔╝░░░██║░░░
-░░░╚═╝░░░╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝░╚════╝░░░░╚═╝░░░ 
-
-
 # VMDetectTool
 
 This is a tool to execute a set of methods for detecting Virtual Environments in differents virtualization vendors. From start it just detect Linux systems, but with expectations to upgrade it to detect Windows. This proyect is open source and code free. 
